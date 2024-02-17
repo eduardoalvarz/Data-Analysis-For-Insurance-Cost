@@ -1,8 +1,9 @@
 # Data Analysis for Insurance Cost 
----
 
 ## Introduction
 This GitHub repository hosts a data analysis project focusing on insurance cost analysis using Python and machine learning techniques. The project involves data cleaning, exploratory data analysis (EDA), and the development of predictive models to understand the factors influencing insurance charges.
+
+<img src="https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost/blob/main/Figures/cor.png" width="325">
 
 ## Objectives
 1. **Load Data:** Import the dataset into a pandas DataFrame.
